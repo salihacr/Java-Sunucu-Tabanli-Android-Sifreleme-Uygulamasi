@@ -18,7 +18,7 @@ public class Main {
 
     ServerSocket server;
     Socket socket;
-    int port = 5400; // My port number. This is Random number but this value must be 1000 and 65000. 1000<port<65000 
+    int port = 5400; // My port number. This is Random number but this value must be 1024 and 65000. 1024<port<65000 
     int counter = 1;
     InetAddress localhost;
     
