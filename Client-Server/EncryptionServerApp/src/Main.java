@@ -24,12 +24,12 @@ public class Main {
     
     public static void main(String[] args) throws UnknownHostException {
         Main main = new Main(); // We create access Main class reference
-        //main.runServer();   
-        System.out.println(encrypt("Selam"));
+        main.runServer();   
+        /*System.out.println(encrypt("Selam"));
         System.out.println(decrypt("Q_jgf?ASP"));
         System.out.println(decrypt(encrypt("Selam")));
         String deneme = encrypt("Selam");
-        System.out.println(deneme);
+        System.out.println(deneme);*/
         
     }
     
