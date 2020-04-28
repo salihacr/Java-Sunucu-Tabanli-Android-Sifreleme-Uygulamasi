@@ -25,16 +25,16 @@ Geliştirilen projede android mobil istemci cihaz üzerinden gönderilen verinin
 
 <p align="center">
   <h3>Java Sunucu Yazılımı</h3>
-  <img src="https://github.com/salihacr/Java-Sunucu-Tabanli-Android-Sifreleme-Uygulamasi/blob/master/Client-Server/project-images/java.PNG">
+  <img src="https://github.com/salihacr/Java-Sunucu-Tabanli-Android-Sifreleme-Uygulamasi/blob/master/Client-Server/java.PNG">
 </p>
 
 <p align="center">
   <h3>Android İstemci Yazılımı</h3>
-  <img src="https://github.com/salihacr/Java-Sunucu-Tabanli-Android-Sifreleme-Uygulamasi/blob/master/Client-Server/project-images/android.PNG">
+  <img src="https://github.com/salihacr/Java-Sunucu-Tabanli-Android-Sifreleme-Uygulamasi/blob/master/Client-Server/android.PNG">
 </p>
 
 
 <p align="center">
   <h3>Veri İletişimi ile Giden Verinin Gerçek Zamanlı Olarak Şifrelenmesi</h3>
-  <img src="https://github.com/salihacr/Java-Sunucu-Tabanli-Android-Sifreleme-Uygulamasi/blob/master/Client-Server/project-images/TAMAMI.PNG">
+  <img src="https://github.com/salihacr/Java-Sunucu-Tabanli-Android-Sifreleme-Uygulamasi/blob/master/Client-Server/TAMAMI.PNG">
 </p>
