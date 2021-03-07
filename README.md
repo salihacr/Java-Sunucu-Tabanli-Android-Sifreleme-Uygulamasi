@@ -1,5 +1,5 @@
 <h1 align="center">
-  Java Tabanlı Soket Programlama ile Şifreleme Uygulaması
+  Java Basit Sunucu Tabanlı Soket Programlama ile Şifreleme Uygulaması
 </h1>
 
 Java Socket Programlamaya geçmeden önce socket kavramına değinecek olursam; Socket dendiği  zaman  birçok kişinin zihninde bilgisayarlarımızın üzerinde bulunan somut bir donanımsal parça canlanıyor. Aslında socket; Bilgisayarların ağ üzerinden haberleşmesini sağlayan yapılardır. Tabi bunun için bazı adresler kullanmak zorundayız. Bunlardan ilki bilgisayarın IP adresi. IP adresi yardımıyla hangi cihazla haberleşeceğimizi belirleriz. Haberleşilecek cihaza ulaşıldığı zaman, bu bilgisayar üzerinde hangi programla iletişime geçeceğimizi belirtmemiz gerekiyor . İşte burada bilgisayarlarımızın portları devreye giriyor. Yani iki bilgisayar birbiriyle bu iki yapı vasıtasıyla haberleşir (IP adresi ve Port Numarası).   Yani socket bilindiğinin aksine donanımsal bir parça değil IP adresi ve port numarasından oluşan bir yapıdır. 
